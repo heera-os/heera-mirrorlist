@@ -1,0 +1,16 @@
+######################################################
+####                                              ####
+####       Heera Os Repository Mirrorlist         ####
+####                                              ####
+######################################################
+
+
+####  put Entry in file /etc/pacman.conf if there is none
+###     [heera]
+###     SigLevel = Optional
+###     Include = /etc/pacman.d/heera-mirrorlist
+######################################################
+
+
+## github mirror
+Server = https://heera-os.github.io/archrepo/$arch/
