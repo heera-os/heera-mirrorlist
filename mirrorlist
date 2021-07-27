@@ -13,4 +13,4 @@
 
 
 ## github mirror
-Server = https://heera-os.github.io/archrepo/$arch/
+Server = https://heera-os.github.io/archrepo-stable/$arch/
